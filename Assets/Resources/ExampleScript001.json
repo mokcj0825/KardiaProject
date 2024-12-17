@@ -1,0 +1,7 @@
+{
+  "Commands": [
+    { "CommandName": "ShowDialog", "Parameters": { "character": "Hero", "text": "Welcome!", "position": "Left" } },
+    { "CommandName": "ShowDialog", "Parameters": { "character": "Villain", "text": "You can't defeat me!", "position": "Right" } },
+    { "CommandName": "SwitchScene", "Parameters":  {"sceneName":  "Testing Scene"}}
+  ]
+}
